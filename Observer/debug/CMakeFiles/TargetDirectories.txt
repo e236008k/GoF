@@ -1,0 +1,8 @@
+C:/Users/20155/Desktop/Github/GoF/Observer/Observer/debug/CMakeFiles/Observer.dir
+C:/Users/20155/Desktop/Github/GoF/Observer/Observer/debug/CMakeFiles/edit_cache.dir
+C:/Users/20155/Desktop/Github/GoF/Observer/Observer/debug/CMakeFiles/rebuild_cache.dir
+C:/Users/20155/Desktop/Github/GoF/Observer/Observer/debug/CMakeFiles/list_install_components.dir
+C:/Users/20155/Desktop/Github/GoF/Observer/Observer/debug/CMakeFiles/install.dir
+C:/Users/20155/Desktop/Github/GoF/Observer/Observer/debug/CMakeFiles/install/local.dir
+C:/Users/20155/Desktop/Github/GoF/Observer/Observer/debug/CMakeFiles/Observer_autogen_timestamp_deps.dir
+C:/Users/20155/Desktop/Github/GoF/Observer/Observer/debug/CMakeFiles/Observer_autogen.dir

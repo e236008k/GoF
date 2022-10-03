@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-fdec4f6da5398266d2d6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Observer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Observer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Observer-Debug-c7cde823d8c9f8f59fda.json",
+					"name" : "Observer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Observer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Observer_autogen-Debug-d3627b83ffa8c69c5270.json",
+					"name" : "Observer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Observer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Observer_autogen_timestamp_deps-Debug-1632caf551eb4f9e935c.json",
+					"name" : "Observer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/20155/Desktop/Github/GoF/Observer/Observer/debug",
+		"source" : "C:/Users/20155/Desktop/Github/GoF/Observer/Observer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

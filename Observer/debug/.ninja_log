@@ -1,0 +1,25 @@
+# ninja log v5
+15	613	6846638037896597	C:/Users/20155/Desktop/Github/GoF/Observer/Observer/debug/CMakeFiles/cmake.verify_globs	7d705e234dc962f0
+11	2120	6842317769286884	Observer_autogen/timestamp	ec018fa9c91e5b37
+11	2120	6842317769286884	Observer_autogen/mocs_compilation.cpp	ec018fa9c91e5b37
+1	246	0	CMakeFiles/clean.additional	baedbe210acaa455
+246	479	0	clean	15b1061eae260f1c
+11	2120	6842317769286884	C:/Users/20155/Desktop/Github/GoF/Observer/Observer/debug/Observer_autogen/mocs_compilation.cpp	ec018fa9c91e5b37
+11	2120	6842317769286884	C:/Users/20155/Desktop/Github/GoF/Observer/Observer/debug/Observer_autogen/timestamp	ec018fa9c91e5b37
+2305	4551	6842317799006954	CMakeFiles/Observer.dir/implement_gof.cpp.obj	d5ab7e4abc1dcad
+2121	5845	6842317812006703	CMakeFiles/Observer.dir/Observer_autogen/mocs_compilation.cpp.obj	b77baaa54d61ebfd
+2202	6050	6842317814016647	CMakeFiles/Observer.dir/main.cpp.obj	6bd0a274724d93b0
+2418	6140	6842317814966658	CMakeFiles/Observer.dir/mainwindow.cpp.obj	6d507167e5776f47
+6142	8599	6842317839216760	Observer.exe	d4000158fbcae38c
+504	3859	6846638059153803	build.ninja	205981ff0895d13e
+621	3035	6846638059153803	build.ninja	205981ff0895d13e
+14	564	0	C:/Users/20155/Desktop/Github/GoF/Observer/Observer/debug/CMakeFiles/cmake.verify_globs	7d705e234dc962f0
+15	2371	6846638087386756	Observer_autogen/timestamp	ec018fa9c91e5b37
+15	2371	6846638087386756	Observer_autogen/mocs_compilation.cpp	ec018fa9c91e5b37
+15	2371	6846638087386756	C:/Users/20155/Desktop/Github/GoF/Observer/Observer/debug/Observer_autogen/timestamp	ec018fa9c91e5b37
+15	2371	6846638087386756	C:/Users/20155/Desktop/Github/GoF/Observer/Observer/debug/Observer_autogen/mocs_compilation.cpp	ec018fa9c91e5b37
+2372	5624	6846638125715444	CMakeFiles/Observer.dir/implement_gof.cpp.obj	d5ab7e4abc1dcad
+2574	7083	6846638140316669	CMakeFiles/Observer.dir/Observer_autogen/mocs_compilation.cpp.obj	b77baaa54d61ebfd
+2855	7391	6846638143446669	CMakeFiles/Observer.dir/main.cpp.obj	6bd0a274724d93b0
+2716	7441	6846638143938317	CMakeFiles/Observer.dir/mainwindow.cpp.obj	6d507167e5776f47
+7442	11265	6846638174341419	Observer.exe	d4000158fbcae38c
